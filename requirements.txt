@@ -1,0 +1,4 @@
+boto3
+requests
+awslambdaric
+playwright==1.52.0
